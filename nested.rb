@@ -81,7 +81,7 @@ def adding_matz
           :languages => ["C"]
         }
      }
-a[:yukihiro_matsumoto][:] = b[:"0"][:NY]
+programmer_hash[:yukihiro_matsumoto][:] = b[:"0"][:NY]
 
 end
 
