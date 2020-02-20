@@ -121,5 +121,5 @@ def adding_to_dennis
           :languages => ["C"]
         }
      }
-programmer_hash = [:grace_hopper][:known_for][languages]
+programmer_hash = [:grace_hopper][:known_for][:languages]
 end
